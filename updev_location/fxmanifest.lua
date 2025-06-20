@@ -7,7 +7,7 @@
 fx_version "cerulean"
 games { "gta5", }
 
-author "orionpix / stimqy"
+author "orionpix"
 description "The location of updev"
 version "0.0.1"
 discord "https://discord.gg/updev"
