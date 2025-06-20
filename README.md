@@ -12,3 +12,5 @@
 ```
 ensure up_location_menu
 ```
+⚠️ IMPORTANT : Ce projet est maintenant sous licence restrictive
+Voir LICENSE.md pour les conditions d'utilisation
